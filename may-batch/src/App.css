@@ -1,0 +1,18 @@
+.App-header
+{
+  background-color: aquamarine;
+}
+
+.nav-link
+{
+  
+  color: #000;
+  border-radius: 5px;
+}
+
+.active-link
+{
+  background-color: red;
+  color: #fff;
+  border-radius: 5px;
+}
