@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pmmuthukumarofficial/myproject/static/css/main.f8bfbbb6.css",
+    "main.js": "/pmmuthukumarofficial/myproject/static/js/main.687c60a3.js",
+    "index.html": "/pmmuthukumarofficial/myproject/index.html",
+    "main.f8bfbbb6.css.map": "/pmmuthukumarofficial/myproject/static/css/main.f8bfbbb6.css.map",
+    "main.687c60a3.js.map": "/pmmuthukumarofficial/myproject/static/js/main.687c60a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bfbbb6.css",
+    "static/js/main.687c60a3.js"
+  ]
+}
